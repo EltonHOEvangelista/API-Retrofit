@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Activity_05_Elton</string>
+    <string name="lblActivity05">Activity 05\nElton Evangelista\nid 300371029</string>
+    <string name="lblSpinner">Select a Breed:</string>
+    <string name="txtTest">breed</string>
+    <string name="lblDescription">Description:</string>
+    <string name="lblLifeSpan">Life Span:  Min: </string>
+    <string name="lblLifeSpanMax">Max: </string>
+    <string name="txtMin">min</string>
+    <string name="txtMax">max</string>
+</resources>
